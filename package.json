@@ -1,0 +1,25 @@
+{
+  "name": "iota-message-example-hello-world",
+  "version": "1.0.0",
+  "description": "## A simple hello world app using IOTA",
+  "main": "app.js",
+  "dependencies": {
+    "@iota/converter": "^1.0.0-beta.23",
+    "@iota/core": "^1.0.0-beta.29"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jensendarren/iota-message-example.git"
+  },
+  "keywords": [],
+  "author": "Darren Jensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jensendarren/iota-message-example/issues"
+  },
+  "homepage": "https://github.com/jensendarren/iota-message-example#readme"
+}

@@ -1,4 +1,4 @@
-# IOTA Example: Hello World App
+# IOTA Message Example: Hello World App
 
 ## A simple hello world app using IOTA
 
@@ -21,11 +21,11 @@ DPXSKIOAKMIQWDIHDXGDLAXVHCC9CGVPKUGMULHHAQULZCOSFSRTKM9KXEDSTXDMSHHADTAL9PDVSC99
 
 ## View the message on the Tangle Explorer
 
-If you used a real address in the app then you can view this transaction using the [Tangle Explorer](https://comnet.thetangle.org/). Make a note of the hash value that was output from the app and use that to look up your transaction. Additionally, if you are using your own address you will be able to see this transaction in your IOTA Wallet.
+If you used a real address in the app then you can view this transaction using the [Tangle Explorer](https://comnet.thetangle.org/). Make a note of the hash value that was output from the app and use that to look up your transaction. Additionally, if you are using your own address you will be able to see this transaction in your local IOTA Wallet.
 
 ### Issue Reporting
 
-If you experience with bugs or need further improvement, please create a new issue under [Issues]().
+If you experience any bugs or need further improvement, please create a new issue under [Issues](https://github.com/jensendarren/iota-message-example/issues).
 
 ### Disclaimer
 
